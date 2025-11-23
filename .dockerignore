@@ -1,0 +1,51 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Virtual environments
+venv/
+env/
+ENV/
+
+# Environment
+.env
+.env.local
+
+# Git
+.git/
+.gitignore
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# Tests
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Notebooks
+notebooks/.ipynb_checkpoints/
+
+# Docs
+docs/
+
+# Evaluation reports
+evaluation/reports/*
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+logs/
