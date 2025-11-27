@@ -205,3 +205,23 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+# macOS System Files
+.DS_Store
+.DS_Store?
+._*
+.AppleDouble
+.LSOverride
+.Spotlight-V100
+.Trashes
+
+# Project Specific
+data/
+outputs/
+temp/
+cache/
+logs/
+*.log
+articles/
+*.db
+dump.rdb
+worker_temp/
